@@ -13,5 +13,7 @@ Upgrading VCSA with external PSC from 6.5 to embedded 6.7U1
 
 * Mount 6.7 installer
 * Copy upgrade templates local and edit
+  * Temporary IP required
+* Rename `psc` in vCenter to `psc-65`
 * Change to directory `cd /Volumes/VMware\ VCSA/vcsa-cli-installer/mac/`
-* Execute upgrade `./vcsa-deploy upgrade ~/Git/ESXi-Installer-PXE-Boot/upgrade/PSC_on_VC.json --accept-eula`
+* Execute upgrade `./vcsa-deploy upgrade ~/Git/vSphere-6.5-to-6.7U1-Upgrade/PSC_on_VC.json --accept-eula`
