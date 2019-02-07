@@ -28,7 +28,7 @@
             ],
             "thin_disk_mode": true,
             "deployment_option": "infrastructure",
-            "name": "psc"
+            "name": "psc67"
         },
         "os": {
             "ssh_enable": true

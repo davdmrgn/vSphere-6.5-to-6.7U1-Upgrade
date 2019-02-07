@@ -28,7 +28,7 @@
             ],
             "thin_disk_mode": true,
             "deployment_option": "management-tiny",
-            "name": "vcsa"
+            "name": "vcsa67"
         },
         "os": {
             "ssh_enable": true
